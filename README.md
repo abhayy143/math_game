@@ -1,2 +1,2 @@
-# math_game
+# Math_game
 The Simple Math Game is simply in python. Taking about the features of this system, the user can test their calculation skills through this app. You just have to type the solution in the text fields and press enter to check the answer. If you are right, then you will get a green background. If not, then the background will turn red. You can also check the right answer by clicking on the question mark symbol. The gameplay design is so simple that users won’t find it difficult to use and understand.
